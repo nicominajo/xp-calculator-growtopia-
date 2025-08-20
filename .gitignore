@@ -1,0 +1,25 @@
+# Environment variables (MOST IMPORTANT)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Runtime files
+*.pid
+*.seed
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
